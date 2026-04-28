@@ -1,0 +1,395 @@
+{
+  "label": "HWG1-U1-applied",
+  "voice": "en-US-SaraNeural",
+  "rate": "+0%",
+  "pitch": "+0%",
+  "ssml_style": "",
+  "generated_by": "collect_word_timings.py",
+  "generated_at": "2026-04-27T20:32:56+08:00",
+  "items": [
+    {
+      "word": "I",
+      "sentence": "I like to read books.",
+      "audio_teacher": "i_sentence_teacher.wav",
+      "audio_student": "i_sentence.wav",
+      "image": "i.png",
+      "word_timings": [
+        {
+          "text": "I",
+          "start_ms": 50,
+          "end_ms": 212,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "like",
+          "start_ms": 225,
+          "end_ms": 487,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "to",
+          "start_ms": 500,
+          "end_ms": 612,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "read",
+          "start_ms": 625,
+          "end_ms": 850,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "books",
+          "start_ms": 862,
+          "end_ms": 1412,
+          "boundary_type": "Word"
+        }
+      ],
+      "all_boundaries": [
+        {
+          "text": "I",
+          "start_ms": 50,
+          "end_ms": 212,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "like",
+          "start_ms": 225,
+          "end_ms": 487,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "to",
+          "start_ms": 500,
+          "end_ms": 612,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "read",
+          "start_ms": 625,
+          "end_ms": 850,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "books",
+          "start_ms": 862,
+          "end_ms": 1412,
+          "boundary_type": "Word"
+        },
+        {
+          "text": ".",
+          "start_ms": 1425,
+          "end_ms": 1537,
+          "boundary_type": "Punctuation"
+        }
+      ],
+      "duration_ms": 1537
+    },
+    {
+      "word": "am / is",
+      "sentence": "I am happy.",
+      "audio_teacher": "am___is_sentence_teacher.wav",
+      "audio_student": "am___is_sentence.wav",
+      "image": "am___is.png",
+      "word_timings": [
+        {
+          "text": "I",
+          "start_ms": 50,
+          "end_ms": 275,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "am",
+          "start_ms": 287,
+          "end_ms": 424,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "happy",
+          "start_ms": 437,
+          "end_ms": 962,
+          "boundary_type": "Word"
+        }
+      ],
+      "all_boundaries": [
+        {
+          "text": "I",
+          "start_ms": 50,
+          "end_ms": 275,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "am",
+          "start_ms": 287,
+          "end_ms": 424,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "happy",
+          "start_ms": 437,
+          "end_ms": 962,
+          "boundary_type": "Word"
+        },
+        {
+          "text": ".",
+          "start_ms": 975,
+          "end_ms": 1087,
+          "boundary_type": "Punctuation"
+        }
+      ],
+      "duration_ms": 1087
+    },
+    {
+      "word": "my",
+      "sentence": "My cat is cute.",
+      "audio_teacher": "my_sentence_teacher.wav",
+      "audio_student": "my_sentence.wav",
+      "image": "my.png",
+      "word_timings": [
+        {
+          "text": "My",
+          "start_ms": 50,
+          "end_ms": 262,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "cat",
+          "start_ms": 275,
+          "end_ms": 575,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "is",
+          "start_ms": 587,
+          "end_ms": 724,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "cute",
+          "start_ms": 737,
+          "end_ms": 1137,
+          "boundary_type": "Word"
+        }
+      ],
+      "all_boundaries": [
+        {
+          "text": "My",
+          "start_ms": 50,
+          "end_ms": 262,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "cat",
+          "start_ms": 275,
+          "end_ms": 575,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "is",
+          "start_ms": 587,
+          "end_ms": 724,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "cute",
+          "start_ms": 737,
+          "end_ms": 1137,
+          "boundary_type": "Word"
+        },
+        {
+          "text": ".",
+          "start_ms": 1150,
+          "end_ms": 1262,
+          "boundary_type": "Punctuation"
+        }
+      ],
+      "duration_ms": 1262
+    },
+    {
+      "word": "name",
+      "sentence": "My name is Mia.",
+      "audio_teacher": "name_sentence_teacher.wav",
+      "audio_student": "name_sentence.wav",
+      "image": "name.png",
+      "word_timings": [
+        {
+          "text": "My",
+          "start_ms": 50,
+          "end_ms": 200,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "name",
+          "start_ms": 212,
+          "end_ms": 487,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "is",
+          "start_ms": 500,
+          "end_ms": 625,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "Mia",
+          "start_ms": 637,
+          "end_ms": 1062,
+          "boundary_type": "Word"
+        }
+      ],
+      "all_boundaries": [
+        {
+          "text": "My",
+          "start_ms": 50,
+          "end_ms": 200,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "name",
+          "start_ms": 212,
+          "end_ms": 487,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "is",
+          "start_ms": 500,
+          "end_ms": 625,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "Mia",
+          "start_ms": 637,
+          "end_ms": 1062,
+          "boundary_type": "Word"
+        },
+        {
+          "text": ".",
+          "start_ms": 1075,
+          "end_ms": 1187,
+          "boundary_type": "Punctuation"
+        }
+      ],
+      "duration_ms": 1187
+    },
+    {
+      "word": "what",
+      "sentence": "What is this?",
+      "audio_teacher": "what_sentence_teacher.wav",
+      "audio_student": "what_sentence.wav",
+      "image": "what.png",
+      "word_timings": [
+        {
+          "text": "What",
+          "start_ms": 50,
+          "end_ms": 300,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "is",
+          "start_ms": 312,
+          "end_ms": 474,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "this",
+          "start_ms": 487,
+          "end_ms": 937,
+          "boundary_type": "Word"
+        }
+      ],
+      "all_boundaries": [
+        {
+          "text": "What",
+          "start_ms": 50,
+          "end_ms": 300,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "is",
+          "start_ms": 312,
+          "end_ms": 474,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "this",
+          "start_ms": 487,
+          "end_ms": 937,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "?",
+          "start_ms": 950,
+          "end_ms": 1062,
+          "boundary_type": "Punctuation"
+        }
+      ],
+      "duration_ms": 1062
+    },
+    {
+      "word": "your",
+      "sentence": "What is your name?",
+      "audio_teacher": "your_sentence_teacher.wav",
+      "audio_student": "your_sentence.wav",
+      "image": "your.png",
+      "word_timings": [
+        {
+          "text": "What",
+          "start_ms": 50,
+          "end_ms": 262,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "is",
+          "start_ms": 275,
+          "end_ms": 400,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "your",
+          "start_ms": 412,
+          "end_ms": 524,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "name",
+          "start_ms": 537,
+          "end_ms": 924,
+          "boundary_type": "Word"
+        }
+      ],
+      "all_boundaries": [
+        {
+          "text": "What",
+          "start_ms": 50,
+          "end_ms": 262,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "is",
+          "start_ms": 275,
+          "end_ms": 400,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "your",
+          "start_ms": 412,
+          "end_ms": 524,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "name",
+          "start_ms": 537,
+          "end_ms": 924,
+          "boundary_type": "Word"
+        },
+        {
+          "text": "?",
+          "start_ms": 937,
+          "end_ms": 1037,
+          "boundary_type": "Punctuation"
+        }
+      ],
+      "duration_ms": 1037
+    }
+  ]
+}
